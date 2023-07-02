@@ -5,6 +5,6 @@ int main()
     int n = 4;
     for (int i = 0; i < n; i++)
     {
-        printf("bello\n");
+        printf("cello\n");
     }  
 }
