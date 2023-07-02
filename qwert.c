@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n = 3;
+    int n = 4;
     for (int i = 0; i < n; i++)
     {
         printf("hello\n");
